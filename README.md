@@ -9,3 +9,7 @@ Harold Edwin Hurst (1 January 1880 – 7 December 1978) was a British hydrologis
 The Hurst exponent is used as a measure of long-term memory of time series. It relates to the autocorrelations of the time series, and the rate at which these decrease as the lag between pairs of values increases.
 
 In fractal geometry, the generalized Hurst exponent has been denoted by H or Hq in honor of both Harold Edwin Hurst and Ludwig Otto Hölder (1859–1937) by Benoît Mandelbrot (1924–2010). H is directly related to fractal dimension, D, and is a measure of a data series "mild" or "wild" randomness.
+
+---
+
+This implementation is based on lectures by Professor Ricieri from ITA on the topic of Big Data and Machine Learning, presented at the *Museu da Matemática*.
