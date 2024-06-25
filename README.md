@@ -12,4 +12,4 @@ In fractal geometry, the generalized Hurst exponent has been denoted by H or Hq 
 
 ---
 
-This implementation is based on lectures by Professor Ricieri from ITA on the topic of Big Data and Machine Learning, presented at the *Museu da Matemática*.
+This implementation was inspired by lectures given by Professor Ricieri from ITA on the topic of Big Data and Machine Learning, presented at *Museu da Matemática*.
